@@ -56,6 +56,15 @@ li a:hover:not(.active) {
     display: table;
 }
 
+.contact{
+    overflow: inherit;
+    float: left;
+    text-align: center;
+    width: 50%;
+    max-width: 50%;
+    margin-bottom: 100px;
+}
+
 .name{
     font-family: PingFangSC-thin;
 }
