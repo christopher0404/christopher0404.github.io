@@ -46,6 +46,12 @@ li a:hover:not(.active) {
     background-color: ghostwhite;
 }
 
+#map {
+    margin: 0 auto;
+    height: 50vh;
+    width: 50vw;
+{
+
 .about{
     overflow: inherit;
     float: left;
