@@ -74,7 +74,7 @@ li a:hover:not(.active) {
 }
 
 .footer {
-    align-item: center;
+    align-items: center;
     font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
     text-align: center;
     margin-top: 100px;
